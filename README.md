@@ -1,5 +1,5 @@
 ### Hi there, I'm Özgün aka [Me on Linkedin][linkedin] 👋
-## I'm a IOS developer.
+## I'm an IOS developer.
 
 
 - 🔭 I’m currently working on Apibucket.io
